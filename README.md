@@ -2,5 +2,5 @@
 
 About me
 - 🎓 CS student @ NC State University 
-- 🔬 Interested in automation, web applications, and deep learning
+- 🔬 Interested in cloud technologies, web applications, and distributed systems
 - 😄 Pronouns: He/Him
