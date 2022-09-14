@@ -8,5 +8,4 @@ About me
 Links:
 - [Instagram](https://www.instagram.com/cadecuddy/)
 - [Twitter](twitter.com/cadecuddy) _sometimes tweet_
-- [Quora](https://www.quora.com/profile/Cade-Cuddy) _sometimes answer_
 - [Pinterest](https://www.pinterest.com/cadecuddy/) _for cool architecture_
