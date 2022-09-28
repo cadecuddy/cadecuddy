@@ -6,6 +6,5 @@ About me
 - 😄 Pronouns: He/Him
 
 Links:
-- [Instagram](https://www.instagram.com/cadecuddy/)
+- [Personal Website / Blog](https://cadecuddy.com/)
 - [Twitter](twitter.com/cadecuddy) _sometimes tweet_
-- [Personal Website](https://cadecuddy.com/)
