@@ -7,4 +7,4 @@ About me
 
 Links:
 - [Personal Website / Blog](https://cadecuddy.com/)
-- [Twitter](twitter.com/cadecuddy) _sometimes tweet_
+- [Twitter](https://twitter.com/cadecuddy) _sometimes tweet_
