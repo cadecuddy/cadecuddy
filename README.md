@@ -1,4 +1,4 @@
-### Hey I'm Cade Cuddy! 👋
+### Hey 👋
 
 About me
 - 🎓 CS student @ NC State University 
