@@ -1,6 +1,4 @@
 ## Hey I'm Cade 👋 
-
-## About me
 - 🎓 CS student @ NC State University
 - 💼 Joining Amazon this summer as a Software Engineer Intern
 - 🔬 Interested in cloud technologies, web applications, and distributed systems
