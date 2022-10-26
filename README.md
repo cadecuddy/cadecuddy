@@ -1,7 +1,7 @@
 ## Hey I'm Cade 👋 
 - 🎓 CS student @ NC State University
 - 💼 Joining Amazon this summer as a Software Engineer Intern
-- 🔬 Interested in cloud technologies, web applications, and distributed systems
+- 🔬 Interested in backend development, web applications, and distributed systems
 - 😄 Pronouns: He/Him
 
 ## Languages and Tools
