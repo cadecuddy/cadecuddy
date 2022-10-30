@@ -1,8 +1,13 @@
 ## Hey I'm Cade 👋 
 - 🎓 CS student @ NC State University
-- 💼 Joining Amazon this summer as a Software Engineer Intern
-- 🔬 Interested in backend development, web applications, and distributed systems
+- 🔬 I'm interested in backend development, web applications, and distributed systems
 - 😄 Pronouns: He/Him
+
+## 💼 _experience_
+
+💻 SWE Intern @ **Amazon** | May --- Aug 2022
+
+🤖 SWE Intern @ **Osmosis AI** | May --- Aug 2019
 
 ## Languages and Tools
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
