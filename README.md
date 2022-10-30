@@ -7,6 +7,8 @@
 
 💻 SWE Intern @ **Amazon** | May — Aug 2022
 
+🚀 Student SWE @ **Liquid Rocketry Lab** | Aug 2020 — Present
+
 🤖 SWE Intern @ **Osmosis AI** | May — Aug 2019
 
 ## Languages and Tools
