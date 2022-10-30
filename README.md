@@ -1,6 +1,6 @@
 ## Hey I'm Cade 👋 
 - 🎓 CS student @ NC State University
-- 🔬 I'm interested in backend development, web applications, and distributed systems
+- 🔬 I'm currently interested in API development, web applications, and distributed systems
 - 😄 Pronouns: He/Him
 
 ## 💼 _experience_
