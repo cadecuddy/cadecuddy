@@ -7,4 +7,4 @@
 <br>
 ![Cade's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadecuddy&show_icons=true&layout=compact&theme=vue-dark&count_private=true)
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,go,ts,react,tailwind,nextjs,rust,git,linux,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,react,ts,nextjs,tailwind,java,rust,git,linux,nodejs)](https://skillicons.dev)
