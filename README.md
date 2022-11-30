@@ -1,6 +1,7 @@
 ## Hey I'm Cade 👋 
 - 🎓 CS student @ NC State University
-- 🔬 I'm currently interested in API development, web applications, and distributed systems
+- 🔬 I'm interested in API development, web applications, and distributed systems
+- ⌨ Currently working on: full stack geoguessr-esque game
 - 😄 Pronouns: He/Him
 
 [![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadecuddy&show_icons=true&layout=compact&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
