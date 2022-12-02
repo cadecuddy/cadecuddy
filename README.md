@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cadecuddy&show_icons=true&layout=compact&theme=cobalt&count_private=true" alt="Cade's Github Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cadecuddy&show_icons=true&layout=compact&theme=cobalt&count_private=true&hide_rank=true"" alt="Cade's Github Stats" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadecuddy&show_icons=true&layout=compact&theme=cobalt&count_private=true" alt="Cade's Languages" />
 </p>
 <br></br><br></br><br></br><br></br><br></br>
