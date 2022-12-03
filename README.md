@@ -1,7 +1,7 @@
 ## Hey I'm Cade 👋 
 - 🎓 CS student @ NC State University
 - 🔬 I'm interested in API development, web applications, and distributed systems
-- ⌨ Currently working on: full stack geoguessr-esque game
+- ⌨ Currently working on: full stack geoguessr-esque game / custom dev tools
 - 😄 Pronouns: He/Him
 
 <p>
