@@ -10,4 +10,4 @@
 </p>
 <br></br><br></br><br></br><br></br><br></br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,react,ts,nextjs,tailwind,java,rust,git,linux,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,react,ts,nextjs,tailwind,java,rust,git,docker,linux,nodejs)](https://skillicons.dev)
