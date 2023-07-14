@@ -1,12 +1,12 @@
-## Hey I'm Cade 👋 
-- 🎓 CS student @ NC State University
-- 🔬 I'm interested in backend development, web applications, and distributed systems
-- 😄 Pronouns: He/Him
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cadecuddy&show_icons=true&layout=compact&theme=cobalt&count_private=true&hide_rank=true"" alt="Cade's Github Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadecuddy&show_icons=true&layout=compact&theme=cobalt&count_private=true" alt="Cade's Languages" />
-</p>
-<br></br><br></br><br></br><br></br><br></br>
+<h1>Cade Cuddy 👋</h1>
+<h4>✔️ CS @ NC State University</h4>
+<h4>✔️ Interested in backend development, web applications, and distributed systems</h4>
+<h4>✔️ Can center divs</h4>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cadecuddy&theme=monokai" style="margin-left:7px;margin-bottom:12px"/>
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cadecuddy&theme=monokai" style="margin-right:50px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cadecuddy&theme=monokai" />
+</div>
+<br />
 
 [![My Skills](https://skillicons.dev/icons?i=py,go,react,ts,nextjs,tailwind,java,rust,git,docker,astro,linux)](https://skillicons.dev)
